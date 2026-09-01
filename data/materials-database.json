@@ -1,0 +1,767 @@
+{
+  "meta": {
+    "version": "2.0",
+    "date": "2026-07-22",
+    "data_source": "GB/T 8162-2018, GB/T 8163-2018, GB 3087, GB/T 5310-2023, GB/T 17396, GB/T 9948-2013, GB/T 9711, API 5L, API 5CT, GB/T 6479, GB/T 3639-2021, JB/T 10333, GB/T 14976-2025, GB/T 18984-2026, ASTM A106/A335/A312, EN 10216/10305, JIS G3454/G3456/G3445",
+    "note": "跨标准对照为工程近似等效，非完全等同。正式出口合同或工程设计须以最新标准原文+材质证明书为准。"
+  },
+  "categories": [
+    {
+      "id": "structural",
+      "name_cn": "结构用无缝钢管",
+      "name_en": "Structural Seamless Steel Pipe",
+      "gb_standard": "GB/T 8162-2018",
+      "foreign_standards": {
+        "ASTM": "A53 / A106",
+        "EN": "EN 10210 / EN 10297",
+        "JIS": "G3441"
+      },
+      "materials": [
+        {
+          "gb_grade": "10#",
+          "astm_grade": "A53 Gr.A",
+          "en_grade": null,
+          "jis_grade": "STKM10A",
+          "chemical_composition": {
+            "C": "0.07-0.14%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥335 MPa",
+            "yield_strength": "≥205 MPa",
+            "elongation": "≥24%"
+          }
+        },
+        {
+          "gb_grade": "20#",
+          "astm_grade": "A106 Gr.B",
+          "en_grade": "E235",
+          "jis_grade": "STKM11A",
+          "chemical_composition": {
+            "C": "0.17-0.24%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.035%", "S": "≤0.035%", "Cr": "≤0.25%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥390 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥20%"
+          }
+        },
+        {
+          "gb_grade": "35#",
+          "astm_grade": null,
+          "en_grade": null,
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "0.32-0.40%", "Si": "0.17-0.37%", "Mn": "0.50-0.80%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥510 MPa",
+            "yield_strength": "≥305 MPa",
+            "elongation": "≥17%"
+          }
+        },
+        {
+          "gb_grade": "45#",
+          "astm_grade": null,
+          "en_grade": null,
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "0.42-0.50%", "Si": "0.17-0.37%", "Mn": "0.50-0.80%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥590 MPa",
+            "yield_strength": "≥335 MPa",
+            "elongation": "≥14%"
+          }
+        },
+        {
+          "gb_grade": "16Mn (Q345)",
+          "astm_grade": "A106 Gr.C",
+          "en_grade": "S355JR",
+          "jis_grade": "STKM13B",
+          "chemical_composition": {
+            "C": "0.12-0.20%", "Si": "0.20-0.55%", "Mn": "1.20-1.60%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥490 MPa",
+            "yield_strength": "≥325 MPa",
+            "elongation": "≥21%"
+          }
+        },
+        {
+          "gb_grade": "15CrMo",
+          "astm_grade": "A335 P11",
+          "en_grade": "13CrMo4-5",
+          "jis_grade": "STBA22",
+          "chemical_composition": {
+            "C": "0.12-0.18%", "Si": "0.17-0.37%", "Mn": "0.40-0.70%",
+            "P": "≤0.035%", "S": "≤0.035%", "Cr": "0.80-1.10%", "Mo": "0.40-0.55%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥440 MPa",
+            "yield_strength": "≥295 MPa",
+            "elongation": "≥22%"
+          }
+        },
+        {
+          "gb_grade": "12Cr1MoV",
+          "astm_grade": null,
+          "en_grade": null,
+          "jis_grade": null,
+          "note": "中国特有牌号，无直接国际对应",
+          "chemical_composition": {
+            "C": "0.08-0.15%", "Si": "0.17-0.37%", "Mn": "0.40-0.70%",
+            "P": "≤0.035%", "S": "≤0.035%", "Cr": "0.90-1.20%",
+            "Mo": "0.25-0.35%", "V": "0.15-0.30%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥490 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥22%"
+          }
+        },
+        {
+          "gb_grade": "42CrMo",
+          "astm_grade": "A193 Gr.B7",
+          "en_grade": "42CrMo4",
+          "jis_grade": "SCM440",
+          "chemical_composition": {
+            "C": "0.38-0.45%", "Si": "0.17-0.37%", "Mn": "0.50-0.80%",
+            "Cr": "0.90-1.20%", "Mo": "0.15-0.25%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥1080 MPa (调质后)",
+            "yield_strength": "≥930 MPa (调质后)",
+            "elongation": "≥12%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fluid",
+      "name_cn": "流体输送用无缝钢管",
+      "name_en": "Fluid Conveying Seamless Steel Pipe",
+      "gb_standard": "GB/T 8163-2018",
+      "foreign_standards": {
+        "ASTM": "A53 / A106",
+        "EN": "EN 10216-1 P235GH",
+        "JIS": "G3454"
+      },
+      "materials": [
+        {
+          "gb_grade": "10#",
+          "astm_grade": "A53 Gr.A",
+          "en_grade": "P235TR1",
+          "jis_grade": "STPG38",
+          "chemical_composition": {
+            "C": "≤0.14%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.030%", "S": "≤0.030%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "335-475 MPa",
+            "yield_strength": "≥205 MPa",
+            "elongation": "≥24%"
+          }
+        },
+        {
+          "gb_grade": "20#",
+          "astm_grade": "A106 Gr.B",
+          "en_grade": "P235GH",
+          "jis_grade": "STPG370",
+          "chemical_composition": {
+            "C": "0.17-0.24%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.030%", "S": "≤0.030%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "410-530 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥20%",
+            "impact": "≥27J at 0℃"
+          }
+        },
+        {
+          "gb_grade": "Q345B",
+          "astm_grade": "A106 Gr.C",
+          "en_grade": "P355NH",
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "≤0.20%", "Si": "≤0.50%", "Mn": "1.00-1.60%",
+            "P": "≤0.030%", "S": "≤0.030%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "490-665 MPa",
+            "yield_strength": "≥345 MPa",
+            "elongation": "≥21%",
+            "impact": "≥34J at 20℃"
+          }
+        },
+        {
+          "gb_grade": "Q345D",
+          "astm_grade": "A106 Gr.C",
+          "en_grade": "P355NH",
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "≤0.20%", "Si": "≤0.50%", "Mn": "1.00-1.60%",
+            "P": "≤0.030%", "S": "≤0.025%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "490-665 MPa",
+            "yield_strength": "≥345 MPa",
+            "elongation": "≥21%",
+            "impact": "≥34J at -20℃"
+          }
+        }
+      ]
+    },
+    {
+      "id": "low_medium_pressure_boiler",
+      "name_cn": "低中压锅炉用无缝钢管",
+      "name_en": "Low & Medium Pressure Boiler Seamless Steel Pipe",
+      "gb_standard": "GB 3087",
+      "foreign_standards": {
+        "ASTM": "A192",
+        "EN": "EN 10216-2 P235GH",
+        "JIS": "G3461"
+      },
+      "materials": [
+        {
+          "gb_grade": "10",
+          "astm_grade": "A192",
+          "en_grade": "P235GH",
+          "jis_grade": "STB340",
+          "chemical_composition": {
+            "C": "0.07-0.13%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "335-475 MPa",
+            "yield_strength": "≥195 MPa",
+            "elongation": "≥24%"
+          }
+        },
+        {
+          "gb_grade": "20",
+          "astm_grade": "A192",
+          "en_grade": "P235GH",
+          "jis_grade": "STB410",
+          "chemical_composition": {
+            "C": "0.17-0.23%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "410-550 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥20%"
+          }
+        },
+        {
+          "gb_grade": "20G",
+          "astm_grade": "A106 Gr.B",
+          "en_grade": "P235GH",
+          "jis_grade": "STB410",
+          "chemical_composition": {
+            "C": "0.17-0.24%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.030%", "S": "≤0.030%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "410-550 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥20%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "high_pressure_boiler",
+      "name_cn": "高压锅炉用无缝钢管",
+      "name_en": "High Pressure Boiler Seamless Steel Pipe",
+      "gb_standard": "GB/T 5310-2023",
+      "foreign_standards": {
+        "ASTM": "A106 / A335 / A213",
+        "EN": "EN 10216-2",
+        "JIS": "G3456 / G3461"
+      },
+      "materials": [
+        {
+          "gb_grade": "20G",
+          "astm_grade": "A106 Gr.B",
+          "en_grade": "P235GH",
+          "jis_grade": "STB410",
+          "chemical_composition": {
+            "C": "0.17-0.24%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "410-550 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥24%",
+            "impact": "≥49J"
+          }
+        },
+        {
+          "gb_grade": "20MnG",
+          "astm_grade": null,
+          "en_grade": null,
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "0.17-0.24%", "Si": "0.17-0.37%", "Mn": "0.70-1.00%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥415 MPa",
+            "yield_strength": "≥240 MPa",
+            "elongation": "≥22%"
+          }
+        },
+        {
+          "gb_grade": "25MnG",
+          "astm_grade": null,
+          "en_grade": null,
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "0.18-0.24%", "Si": "0.17-0.37%", "Mn": "1.00-1.40%",
+            "P": "≤0.035%", "S": "≤0.035%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥485 MPa",
+            "yield_strength": "≥275 MPa",
+            "elongation": "≥20%"
+          }
+        },
+        {
+          "gb_grade": "15MoG",
+          "astm_grade": "A209 T1",
+          "en_grade": "16Mo3",
+          "jis_grade": "STBA12",
+          "chemical_composition": {
+            "C": "0.12-0.20%", "Si": "0.17-0.37%", "Mn": "0.40-0.80%",
+            "P": "≤0.035%", "S": "≤0.035%", "Mo": "0.25-0.35%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "450-600 MPa",
+            "yield_strength": "≥270 MPa",
+            "elongation": "≥22%"
+          }
+        },
+        {
+          "gb_grade": "15CrMoG",
+          "astm_grade": "A335 P11 / A213 T12",
+          "en_grade": "13CrMo4-5",
+          "jis_grade": "STBA22",
+          "chemical_composition": {
+            "C": "0.12-0.18%", "Si": "0.17-0.37%", "Mn": "0.40-0.70%",
+            "P": "≤0.035%", "S": "≤0.035%", "Cr": "0.80-1.10%", "Mo": "0.40-0.55%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "440-640 MPa",
+            "yield_strength": "≥235 MPa",
+            "elongation": "≥21%",
+            "impact": "≥59J"
+          }
+        },
+        {
+          "gb_grade": "12Cr2MoG",
+          "astm_grade": "A335 P22 / A213 T22",
+          "en_grade": "10CrMo9-10",
+          "jis_grade": "STBA24",
+          "chemical_composition": {
+            "C": "0.08-0.15%", "Si": "≤0.50%", "Mn": "0.30-0.61%",
+            "P": "≤0.035%", "S": "≤0.035%", "Cr": "2.00-2.50%", "Mo": "0.87-1.13%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "450-600 MPa",
+            "yield_strength": "≥280 MPa",
+            "elongation": "≥20%"
+          }
+        },
+        {
+          "gb_grade": "12Cr1MoVG",
+          "astm_grade": null,
+          "en_grade": null,
+          "jis_grade": null,
+          "note": "中国特有牌号，无直接国际对应",
+          "chemical_composition": {
+            "C": "0.08-0.15%", "Si": "0.17-0.37%", "Mn": "0.40-0.70%",
+            "P": "≤0.035%", "S": "≤0.035%", "Cr": "0.90-1.20%",
+            "Mo": "0.25-0.35%", "V": "0.15-0.30%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "470-640 MPa",
+            "yield_strength": "≥255 MPa",
+            "elongation": "≥21%",
+            "impact": "≥35J"
+          }
+        },
+        {
+          "gb_grade": "12Cr2MoWVTiB",
+          "astm_grade": null,
+          "en_grade": null,
+          "jis_grade": null,
+          "note": "中国特有牌号（钢研102），无直接国际对应",
+          "chemical_composition": {
+            "C": "0.08-0.15%", "Si": "0.45-0.75%", "Mn": "0.45-0.65%",
+            "Cr": "1.60-2.10%", "Mo": "0.50-0.65%", "W": "0.30-0.55%",
+            "V": "0.22-0.38%", "Ti": "0.08-0.18%", "B": "0.0008-0.0055%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "540-685 MPa",
+            "yield_strength": "≥340 MPa",
+            "elongation": "≥18%"
+          }
+        },
+        {
+          "gb_grade": "10Cr9Mo1VNbN (P91)",
+          "astm_grade": "A335 P91",
+          "en_grade": "X10CrMoVNb9-1",
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "0.08-0.12%", "Si": "0.20-0.50%", "Mn": "0.30-0.60%",
+            "P": "≤0.020%", "S": "≤0.010%", "Cr": "8.00-9.50%",
+            "Mo": "0.85-1.05%", "V": "0.18-0.25%",
+            "Nb": "0.060-0.090%", "N": "0.045-0.070%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥585 MPa",
+            "yield_strength": "≥415 MPa",
+            "elongation": "≥20%",
+            "impact": "≥27J"
+          }
+        },
+        {
+          "gb_grade": "07Cr19Ni10 (TP304H)",
+          "astm_grade": "A312 TP304H",
+          "en_grade": "X7CrNi18-9",
+          "jis_grade": "SUS304HTP",
+          "chemical_composition": {
+            "C": "0.04-0.10%", "Si": "≤0.75%", "Mn": "≤2.00%",
+            "P": "≤0.030%", "S": "≤0.030%", "Cr": "18.00-20.00%", "Ni": "8.00-11.00%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥520 MPa",
+            "yield_strength": "≥205 MPa",
+            "elongation": "≥35%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hydraulic_prop",
+      "name_cn": "液压支柱用无缝钢管",
+      "name_en": "Hydraulic Prop Seamless Steel Pipe",
+      "gb_standard": "GB/T 17396-2009",
+      "foreign_standards": {
+        "ASTM": "A519",
+        "EN": "EN 10305-1",
+        "JIS": "G3445"
+      },
+      "materials": [
+        {
+          "gb_grade": "20",
+          "astm_grade": "A519 1026",
+          "en_grade": "E235",
+          "jis_grade": "STKM11A",
+          "delivery_state": "热轧",
+          "chemical_composition": {
+            "C": "0.17-0.24%", "Si": "0.17-0.37%", "Mn": "0.36-0.64%",
+            "P": "≤0.033%", "S": "≤0.036%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥410 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥20%"
+          }
+        },
+        {
+          "gb_grade": "45",
+          "astm_grade": "A519 1045",
+          "en_grade": "E355",
+          "jis_grade": "STKM13A",
+          "delivery_state": "热轧",
+          "chemical_composition": {
+            "C": "0.42-0.50%", "Si": "0.17-0.37%", "Mn": "0.50-0.80%",
+            "P": "≤0.034%", "S": "≤0.037%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥590 MPa",
+            "yield_strength": "≥335 MPa",
+            "elongation": "≥14%",
+            "impact": "≥39J",
+            "hardness": "≤197 HB"
+          }
+        },
+        {
+          "gb_grade": "27SiMn",
+          "astm_grade": "A519 4130 (approx.)",
+          "en_grade": "E355",
+          "jis_grade": null,
+          "delivery_state": "热轧态（调质态性能见 note）",
+          "note": "调质态：920℃±20℃水淬+450℃±50℃回火 → Rm≥980MPa, ReL≥835MPa",
+          "chemical_composition": {
+            "C": "0.24-0.32%", "Si": "1.10-1.40%", "Mn": "1.10-1.40%",
+            "P": "≤0.035%", "S": "≤0.035%", "Cr": "≤0.30%", "Ni": "≤0.30%", "Cu": "≤0.30%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥980 MPa (调质)",
+            "yield_strength": "≥835 MPa (调质)",
+            "elongation": "≥12% (调质)",
+            "impact": "≥39J",
+            "hardness": "≤217 HB"
+          }
+        }
+      ]
+    },
+    {
+      "id": "petroleum_cracking",
+      "name_cn": "石油裂化用无缝钢管",
+      "name_en": "Petroleum Cracking Seamless Steel Pipe",
+      "gb_standard": "GB 9948-2013",
+      "foreign_standards": {
+        "ASTM": "A335 / A213",
+        "EN": "EN 10216-2",
+        "JIS": "G3458"
+      },
+      "materials": [
+        {
+          "gb_grade": "10#",
+          "astm_grade": "A53 Gr.A",
+          "en_grade": null,
+          "jis_grade": "STPG38",
+          "chemical_composition": {
+            "C": "0.07-0.13%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.025%", "S": "≤0.015%", "Cr": "≤0.25%", "Mo": "≤0.15%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "330-490 MPa",
+            "yield_strength": "≥205 MPa",
+            "elongation": "≥24%"
+          }
+        },
+        {
+          "gb_grade": "20#",
+          "astm_grade": "A106 Gr.B",
+          "en_grade": "P235GH",
+          "jis_grade": "STPG370",
+          "chemical_composition": {
+            "C": "0.17-0.23%", "Si": "0.17-0.37%", "Mn": "0.35-0.65%",
+            "P": "≤0.025%", "S": "≤0.015%", "Cr": "≤0.25%", "Mo": "≤0.15%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "410-550 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥21%"
+          }
+        },
+        {
+          "gb_grade": "12CrMo",
+          "astm_grade": "A335 P1",
+          "en_grade": "13CrMo4-5 (approx.)",
+          "jis_grade": "STBA20",
+          "chemical_composition": {
+            "C": "0.08-0.15%", "Si": "0.17-0.37%", "Mn": "0.40-0.70%",
+            "Cr": "0.40-0.70%", "Mo": "0.40-0.55%",
+            "P": "≤0.025%", "S": "≤0.015%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥410 MPa",
+            "yield_strength": "≥205 MPa",
+            "elongation": "≥21%"
+          }
+        },
+        {
+          "gb_grade": "15CrMo",
+          "astm_grade": "A335 P11",
+          "en_grade": "13CrMo4-5",
+          "jis_grade": "STBA22",
+          "chemical_composition": {
+            "C": "0.12-0.18%", "Si": "0.17-0.37%", "Mn": "0.40-0.70%",
+            "Cr": "0.80-1.10%", "Mo": "0.40-0.55%",
+            "P": "≤0.025%", "S": "≤0.015%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "440-640 MPa",
+            "yield_strength": "≥235 MPa",
+            "elongation": "≥21%"
+          }
+        },
+        {
+          "gb_grade": "12Cr1Mo",
+          "astm_grade": "A335 P11 (approx.)",
+          "en_grade": null,
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "0.08-0.15%", "Si": "0.50-1.00%", "Mn": "0.30-0.60%",
+            "Cr": "1.00-1.50%", "Mo": "0.45-0.65%",
+            "P": "≤0.025%", "S": "≤0.015%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥440 MPa",
+            "yield_strength": "≥235 MPa",
+            "elongation": "≥21%"
+          }
+        },
+        {
+          "gb_grade": "12Cr1MoV",
+          "astm_grade": null,
+          "en_grade": null,
+          "jis_grade": null,
+          "note": "中国特有牌号，无直接国际对应",
+          "chemical_composition": {
+            "C": "0.08-0.15%", "Si": "0.17-0.37%", "Mn": "0.40-0.70%",
+            "Cr": "0.90-1.20%", "Mo": "0.25-0.35%", "V": "0.15-0.30%",
+            "P": "≤0.025%", "S": "≤0.010%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥490 MPa",
+            "yield_strength": "≥245 MPa",
+            "elongation": "≥21%"
+          }
+        },
+        {
+          "gb_grade": "12Cr2Mo",
+          "astm_grade": "A335 P22",
+          "en_grade": "10CrMo9-10",
+          "jis_grade": "STBA24",
+          "chemical_composition": {
+            "C": "0.08-0.15%", "Si": "≤0.50%", "Mn": "0.40-0.60%",
+            "Cr": "2.00-2.50%", "Mo": "0.90-1.13%",
+            "P": "≤0.025%", "S": "≤0.015%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥450 MPa",
+            "yield_strength": "≥280 MPa",
+            "elongation": "≥20%"
+          }
+        },
+        {
+          "gb_grade": "12Cr5MoI / 12Cr5MoNT",
+          "astm_grade": "A335 P5",
+          "en_grade": null,
+          "jis_grade": "STBA25",
+          "delivery_state": "I=完全退火, NT=正火+回火",
+          "chemical_composition": {
+            "C": "≤0.15%", "Si": "≤0.50%", "Mn": "0.30-0.60%",
+            "Cr": "4.00-6.00%", "Mo": "0.45-0.60%",
+            "P": "≤0.025%", "S": "≤0.015%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥390 MPa",
+            "yield_strength": "≥195 MPa",
+            "elongation": "≥22%"
+          }
+        },
+        {
+          "gb_grade": "12Cr9MoI / 12Cr9MoNT",
+          "astm_grade": "A335 P9",
+          "en_grade": null,
+          "jis_grade": "STBA26",
+          "delivery_state": "I=完全退火, NT=正火+回火",
+          "chemical_composition": {
+            "C": "≤0.15%", "Si": "0.25-1.00%", "Mn": "0.30-0.60%",
+            "Cr": "8.00-10.00%", "Mo": "0.90-1.10%",
+            "P": "≤0.025%", "S": "≤0.015%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥440 MPa",
+            "yield_strength": "≥230 MPa",
+            "elongation": "≥22%"
+          }
+        },
+        {
+          "gb_grade": "07Cr19Ni10 (TP304H)",
+          "astm_grade": "A312 TP304H",
+          "en_grade": null,
+          "jis_grade": "SUS304HTP",
+          "chemical_composition": {
+            "C": "0.04-0.10%", "Si": "≤0.75%", "Mn": "≤2.00%",
+            "Cr": "18.00-20.00%", "Ni": "8.00-11.00%",
+            "P": "≤0.030%", "S": "≤0.030%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "≥520 MPa",
+            "yield_strength": "≥205 MPa",
+            "elongation": "≥35%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pipeline",
+      "name_cn": "管线管",
+      "name_en": "Pipeline Seamless Steel Pipe",
+      "gb_standard": "GB/T 9711 / API 5L",
+      "foreign_standards": {
+        "API": "Spec 5L",
+        "EN": "EN 10208-2",
+        "JIS": "G3457"
+      },
+      "materials": [
+        {
+          "gb_grade": "L245 / Grade B",
+          "astm_grade": "API 5L Gr.B",
+          "en_grade": "L245NB",
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "≤0.26%", "Mn": "≤1.20%", "P": "≤0.030%", "S": "≤0.030%", "Si": "≤0.40%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "414-758 MPa",
+            "yield_strength": "241-448 MPa",
+            "elongation": "≥23%"
+          }
+        },
+        {
+          "gb_grade": "L290 / X42",
+          "astm_grade": "API 5L X42",
+          "en_grade": "L290NB",
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "≤0.26%", "Mn": "≤1.30%", "P": "≤0.030%", "S": "≤0.030%", "Si": "≤0.40%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "414-758 MPa",
+            "yield_strength": "290-496 MPa",
+            "elongation": "≥23%"
+          }
+        },
+        {
+          "gb_grade": "L360 / X52",
+          "astm_grade": "API 5L X52",
+          "en_grade": "L360NB",
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "≤0.26%", "Mn": "≤1.40%", "P": "≤0.025%", "S": "≤0.015%", "Si": "≤0.45%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "455-758 MPa",
+            "yield_strength": "359-533 MPa",
+            "elongation": "≥21%"
+          }
+        },
+        {
+          "gb_grade": "L415 / X60",
+          "astm_grade": "API 5L X60",
+          "en_grade": "L415MB",
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "≤0.24%", "Mn": "≤1.60%", "P": "≤0.020%", "S": "≤0.010%", "Si": "≤0.45%"
+          },
+          "mechanical_properties": {
+            "tensile_strength": "517-758 MPa",
+            "yield_strength": "414-565 MPa",
+            "elongation": "≥20%"
+          }
+        },
+        {
+          "gb_grade": "L450 / X65",
+          "astm_grade": "API 5L X65",
+          "en_grade": "L450MB",
+          "jis_grade": null,
+          "chemical_composition": {
+            "C": "≤0.22%", "Mn": "≤1.70%", "P": "≤0.020%", "S": "≤0.010%", "Si": "≤0.45%"
+          },
+          "mechanical_properties": {
+            "tensile_st

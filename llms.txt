@@ -1,0 +1,85 @@
+# 杰盛（钢管）山东有限公司
+# Jiesheng Steel Pipe (Shandong) Co., Ltd.
+
+> 中国山东聊城无缝钢管、合金管、不锈钢及特殊钢供应商。提供无缝管、精密冷拔管、深孔镗管、不锈钢管/板、碳钢与合金圆钢、模具钢等产品，覆盖 GB/T、ASTM、EN、DIN、JIS、API 多标准体系，支持多标准交叉对照与定制化供货。
+
+官网：https://www.jieshengsteel.com
+
+## 核心业务
+
+- 无缝钢管（Seamless Steel Pipe）生产与出口
+- 精密冷拔管、深孔镗管加工
+- 不锈钢管与不锈钢板
+- 圆钢系列：碳钢、合金钢、不锈钢、特殊钢、模具钢
+- 多标准交叉对照（GB/T ↔ ASTM ↔ EN ↔ DIN ↔ JIS ↔ API）
+- 材料数据库查询与选型支持
+
+## 主要产品分类
+
+### 无缝管（Seamless Pipe）
+- 结构用管（GB/T 8162）
+- 流体输送用管（GB/T 8163）
+- 高压锅炉管（GB/T 5310）
+- 低中压锅炉管（GB/T 3087）
+- 液压支柱管
+- 石油裂化管（GB/T 9948）
+- 管线管（API 5L / GB/T 9711）
+- 油套管（API 5CT）
+- 化肥设备用管（GB/T 6479）
+- 低温用管（GB/T 18984）
+- 核电用管
+
+### 冷拔 / 精密管（Cold Drawn）
+- 冷拔无缝钢管
+- 深孔镗无缝钢管
+
+### 不锈钢（Stainless）
+- 不锈钢管
+- 不锈钢板
+
+### 圆钢（Round Bar）
+- 碳钢圆钢（如 45#、20#、Q235A）
+- 合金钢圆钢（如 40Cr、42CrMo）
+- 不锈钢圆钢（如 304、316L、17-4PH）
+- 特殊钢圆钢（如 65Mn 弹簧钢）
+- 模具钢圆钢（如 H13、Cr12、Cr12MoV）
+
+## 执行标准
+
+GB/T、ASTM（A106 / A53 / A213 / A335 等）、EN / DIN（EN 10216 等）、JIS、API（5L / 5CT）
+
+## 关键页面
+
+- [首页](https://www.jieshengsteel.com/index.html) — 公司概览与主营产品
+- [产品中心](https://www.jieshengsteel.com/products.html) — 全品类材料数据库（含化学成分、力学性能、交货状态、公差）
+- [关于我们](https://www.jieshengsteel.com/about.html) — 公司发展历程与资质
+- [市场洞察](https://www.jieshengsteel.com/market-insight.html) — 行业资讯与市场分析
+- [常见问题](https://www.jieshengsteel.com/faq.html) — 采购、标准、交付常见问答
+- [联系我们](https://www.jieshengsteel.com/contact.html) — 联系方式与询盘
+
+## 语言版本
+
+中文（zh）、English（en）、Français（fr）、Deutsch（de）、Español（es）、日本語（ja）、العربية（ar）
+
+英文入口：https://www.jieshengsteel.com/en/index.html
+
+## 联系信息
+
+- 公司：杰盛（钢管）山东有限公司 / Jiesheng Steel Pipe (Shandong) Co., Ltd.
+- 地址：中国山东省聊城市经济技术开发区
+- 欧洲办事处：英国威尔士卡迪夫（国际业务总监 杨百城 先生常驻）
+- 电话：+86 0635-8883083
+- 邮箱：sales@jieshengsteel.com
+- WhatsApp：+44 7878086735
+- 微信：+86 13012683636 / +86 15666958562（外贸经理）
+
+## 社交媒体
+
+- Facebook: https://www.facebook.com/JieshengSteel
+- LinkedIn: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bo4VLVd8wTKC%2FB0iQ8VTp0A%3D%3D
+- Instagram: https://www.instagram.com/jieshengsteel2026/
+- YouTube: https://www.youtube.com/channel/UCDiECyK8ijiR_eh2CFb6jMQ
+
+---
+本文件遵循 llms.txt 规范（https://llmstxt.org/），供 AI 爬虫与大模型检索引用。
+站点地图：https://www.jieshengsteel.com/sitemap.xml

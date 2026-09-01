@@ -1,0 +1,156 @@
+# ============================================================
+# robots.txt — 杰盛（钢管）山东有限公司 / Jiesheng Steel Pipe
+# https://www.jieshengsteel.com
+#
+# 说明：本站欢迎所有搜索引擎与 AI 爬虫（大模型）抓取、索引与引用。
+# ============================================================
+
+# ---------- 默认规则：允许所有爬虫抓取全站 ----------
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+
+# ---------- 传统搜索引擎 ----------
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+# ---------- AI 爬虫 / 大模型训练与检索 ----------
+# OpenAI (ChatGPT / GPT Search)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Google Gemini / AI Overviews
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Microsoft Copilot / Bing AI
+User-agent: msnbot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: meta-externalfetcher
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# ByteDance / 豆包
+User-agent: Bytespider
+Allow: /
+
+# Amazon
+User-agent: Amazonbot
+Allow: /
+
+# Common Crawl（多数大模型的训练语料来源）
+User-agent: CCBot
+Allow: /
+
+# 其他主流 AI / 数据抓取
+User-agent: AI2Bot
+Allow: /
+
+User-agent: Cohere-AI
+Allow: /
+
+User-agent: Cohere-training-data-crawler
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: ImagesiftBot
+Allow: /
+
+User-agent: Webzio-Extended
+Allow: /
+
+User-agent: omgili
+Allow: /
+
+User-agent: omgilibot
+Allow: /
+
+User-agent: PanguBot
+Allow: /
+
+User-agent: Scrapy
+Allow: /
+
+# ---------- Sitemap ----------
+Sitemap: https://www.jieshengsteel.com/sitemap.xml
