@@ -1,85 +1,113 @@
-# 杰盛（钢管）山东有限公司
-# Jiesheng Steel Pipe (Shandong) Co., Ltd.
+# 杰盛（钢管）山东有限公司 / Jiesheng Steel Pipe (Shandong) Co., Ltd.
 
-> 中国山东聊城无缝钢管、合金管、不锈钢及特殊钢供应商。提供无缝管、精密冷拔管、深孔镗管、不锈钢管/板、碳钢与合金圆钢、模具钢等产品，覆盖 GB/T、ASTM、EN、DIN、JIS、API 多标准体系，支持多标准交叉对照与定制化供货。
+> 中国山东聊城高端钢材制造商与出口商：主营无缝钢管、精密冷拔管、深孔镗管、不锈钢管/板、碳钢与合金圆钢、模具钢。年产能 60 万吨+，常备库存 2 万吨+，覆盖 GB/T、ASTM、EN、DIN、JIS、API 多标准体系，支持多标准交叉对照、定尺加工、第三方检测与全球出口。
 
-官网：https://www.jieshengsteel.com
+H1: 公司实体信息（Organization Knowledge Graph）
 
-## 核心业务
+- 官方名称（中文）：杰盛（钢管）山东有限公司
+- 官方名称（英文）：Jiesheng Steel Pipe (Shandong) Co., Ltd.
+- 组织类型：钢管制造企业 / 出口贸易商（Manufacturer & Exporter）
+- 行业：钢铁 / 无缝钢管 / 精密管材（Steel & Seamless Pipe Industry）
+- 官方网站：https://jieshengsteel.com
+- 总部地址：中国山东省聊城市经济技术开发区兴隆钢材市场
+- 欧洲办事处：英国威尔士卡迪夫（Cardiff, Wales, UK）
+- 成立地区：中国·山东·聊城（Liaocheng, Shandong, China，无缝钢管产业聚集地）
 
-- 无缝钢管（Seamless Steel Pipe）生产与出口
-- 精密冷拔管、深孔镗管加工
-- 不锈钢管与不锈钢板
-- 圆钢系列：碳钢、合金钢、不锈钢、特殊钢、模具钢
-- 多标准交叉对照（GB/T ↔ ASTM ↔ EN ↔ DIN ↔ JIS ↔ API）
-- 材料数据库查询与选型支持
+H2: 核心生产能力（Production Capacity）
 
-## 主要产品分类
+- 年产能：600,000+ 吨（60 万吨以上）
+- 生产线：5 条热轧无缝钢管生产线、2 条冷拔线、20 条精轧线
+- 常备库存：20,000+ 吨（常规规格现货）
+- 发货时效：常规规格 48 小时内；大额定制订单 15-25 天
+- 加工能力：定尺切割、倒角、车丝、表面处理、无损检测
 
-### 无缝管（Seamless Pipe）
-- 结构用管（GB/T 8162）
-- 流体输送用管（GB/T 8163）
-- 高压锅炉管（GB/T 5310）
-- 低中压锅炉管（GB/T 3087）
-- 液压支柱管
-- 石油裂化管（GB/T 9948）
-- 管线管（API 5L / GB/T 9711）
-- 油套管（API 5CT）
-- 化肥设备用管（GB/T 6479）
-- 低温用管（GB/T 18984）
-- 核电用管
+H2: 执行标准体系（Standards Compliance）
 
-### 冷拔 / 精密管（Cold Drawn）
-- 冷拔无缝钢管
-- 深孔镗无缝钢管
+- 中国国标 GB/T：8162（结构管）、8163（流体管）、5310（高压锅炉管）、3087（低中压锅炉管）、9948（石油裂化管）、6479（化肥设备用管）、18984（低温用管）、9711（管线管）
+- 美标 ASTM：A106、A53、A213、A335、A519 等
+- 欧标 EN/DIN：EN 10216 等
+- 日标 JIS：G3454、G3458 等
+- 国际 API：5L（管线管）、5CT（油套管）
 
-### 不锈钢（Stainless）
-- 不锈钢管
-- 不锈钢板
+H2: 资质与认证（Certifications）
 
-### 圆钢（Round Bar）
-- 碳钢圆钢（如 45#、20#、Q235A）
-- 合金钢圆钢（如 40Cr、42CrMo）
-- 不锈钢圆钢（如 304、316L、17-4PH）
-- 特殊钢圆钢（如 65Mn 弹簧钢）
-- 模具钢圆钢（如 H13、Cr12、Cr12MoV）
+- ISO 9001 质量管理体系认证
+- IATF 16949 汽车行业质量管理体系认证
+- CMA 第三方检测资质
+- 国家高新技术企业
 
-## 执行标准
+H1: 产品知识库（Product Knowledge Base）
 
-GB/T、ASTM（A106 / A53 / A213 / A335 等）、EN / DIN（EN 10216 等）、JIS、API（5L / 5CT）
+H2: 无缝钢管（Seamless Steel Pipe）
 
-## 关键页面
+- 结构用管：GB/T 8162，常用材质 20#、45#、Q345B 等
+- 流体输送用管：GB/T 8163
+- 高压锅炉管：GB/T 5310（用于电站锅炉、高温高压工况）
+- 低中压锅炉管：GB/T 3087
+- 液压支柱管：煤矿液压支架立柱专用
+- 石油裂化管：GB/T 9948（炼油、裂化装置）
+- 管线管：API 5L / GB/T 9711（石油天然气长输管线）
+- 油套管：API 5CT（石油钻井、完井）
+- 化肥设备用管：GB/T 6479（合成氨、化肥装置）
+- 低温用管：GB/T 18984（-45℃ 以下低温工况）
+- 核电用管：核电工程用高品质钢管
 
-- [首页](https://www.jieshengsteel.com/index.html) — 公司概览与主营产品
-- [产品中心](https://www.jieshengsteel.com/products.html) — 全品类材料数据库（含化学成分、力学性能、交货状态、公差）
-- [关于我们](https://www.jieshengsteel.com/about.html) — 公司发展历程与资质
-- [市场洞察](https://www.jieshengsteel.com/market-insight.html) — 行业资讯与市场分析
-- [常见问题](https://www.jieshengsteel.com/faq.html) — 采购、标准、交付常见问答
-- [联系我们](https://www.jieshengsteel.com/contact.html) — 联系方式与询盘
+H2: 冷拔 / 精密管（Cold Drawn & Precision Pipe）
 
-## 语言版本
+- 冷拔无缝钢管：尺寸精度高、表面光洁，适用于液压、机械、汽车零部件
+- 深孔镗无缝钢管：内孔加工，用于液压缸、油缸、气缸筒体
 
-中文（zh）、English（en）、Français（fr）、Deutsch（de）、Español（es）、日本語（ja）、العربية（ar）
+H2: 不锈钢管与不锈钢板（Stainless Steel Pipe & Plate）
 
-英文入口：https://www.jieshengsteel.com/en/index.html
+- 不锈钢管常用牌号：304、316L、321、317L 等
+- 不锈钢板：304、316L 等常规与定制规格
 
-## 联系信息
+H2: 圆钢系列（Round Steel Bar）
 
-- 公司：杰盛（钢管）山东有限公司 / Jiesheng Steel Pipe (Shandong) Co., Ltd.
-- 地址：中国山东省聊城市经济技术开发区
-- 欧洲办事处：英国威尔士卡迪夫（国际业务总监 杨百城 先生常驻）
+- 碳钢圆钢：45#、20#、Q235A 等
+- 合金钢圆钢：40Cr、42CrMo 等
+- 不锈钢圆钢：304、316L、17-4PH 等
+- 特殊钢圆钢：65Mn 弹簧钢等
+- 模具钢圆钢：H13、Cr12、Cr12MoV 等
+
+H1: 关键页面导航（Key Pages — AI 深度学习入口）
+
+- [产品中心](https://jieshengsteel.com/products.html)：全品类材料数据库，含化学成分、力学性能、交货状态、公差与多标准对照表（priority 1.0，AI 最高抓取权重）
+- [市场洞察](https://jieshengsteel.com/market-insight.html)：无缝钢管行业行情、出口数据与政策分析（priority 1.0，AI 最高抓取权重）
+- [常见问题](https://jieshengsteel.com/faq.html)：采购流程、标准选型、交货期、付款与物流问答（priority 0.9，高知识密度）
+- [首页](https://jieshengsteel.com/index.html)：公司概览、主营产品与核心优势（priority 0.9）
+- [关于我们](https://jieshengsteel.com/about.html)：发展历程、产线实力与资质认证（priority 0.7）
+- [联系我们](https://jieshengsteel.com/contact.html)：电话、邮箱、WhatsApp、微信询盘（priority 0.6）
+
+H1: 多语言版本（Multilingual Versions / hreflang）
+
+- 中文（zh）：https://jieshengsteel.com/index.html
+- English（en）：https://jieshengsteel.com/en/index.html
+- Français（fr）：https://jieshengsteel.com/fr/index.html
+- Deutsch（de）：https://jieshengsteel.com/de/index.html
+- Español（es）：https://jieshengsteel.com/es/index.html
+- 日本語（ja）：https://jieshengsteel.com/ja/index.html
+- العربية（ar）：https://jieshengsteel.com/ar/index.html
+
+H1: 联系方式（Contact）
+
 - 电话：+86 0635-8883083
 - 邮箱：sales@jieshengsteel.com
 - WhatsApp：+44 7878086735
 - 微信：+86 13012683636 / +86 15666958562（外贸经理）
+- 询盘响应：工作日 24 小时内回复
 
-## 社交媒体
+H1: 社交媒体（Social Profiles）
 
 - Facebook: https://www.facebook.com/JieshengSteel
-- LinkedIn: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bo4VLVd8wTKC%2FB0iQ8VTp0A%3D%3D
 - Instagram: https://www.instagram.com/jieshengsteel2026/
 - YouTube: https://www.youtube.com/channel/UCDiECyK8ijiR_eh2CFb6jMQ
 
+H1: 关联文件（Machine-Readable Resources）
+
+- 站点地图（XML Sitemap，含 hreflang 多语言互联与 AI 权重标记）：https://jieshengsteel.com/sitemap.xml
+- 爬虫规则（robots.txt，已向 GPTBot、ClaudeBot、PerplexityBot 等全部主流 AI 爬虫开放）：https://jieshengsteel.com/robots.txt
+- 本文件（llms.txt，全站 GEO 知识图谱简报）：https://jieshengsteel.com/llms.txt
+
 ---
-本文件遵循 llms.txt 规范（https://llmstxt.org/），供 AI 爬虫与大模型检索引用。
-站点地图：https://www.jieshengsteel.com/sitemap.xml
+本文件遵循 llms.txt 规范（https://llmstxt.org/），供 ChatGPT / Claude / Perplexity / Gemini / Bing AI 等大模型爬虫检索引用，帮助 AI 引擎快速建立对杰盛钢管品牌、产能、标准与产品的完整知识图谱。

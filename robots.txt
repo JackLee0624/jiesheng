@@ -1,6 +1,6 @@
 # ============================================================
 # robots.txt — 杰盛（钢管）山东有限公司 / Jiesheng Steel Pipe
-# https://www.jieshengsteel.com
+# https://jieshengsteel.com
 #
 # 说明：本站欢迎所有搜索引擎与 AI 爬虫（大模型）抓取、索引与引用。
 # ============================================================
@@ -153,4 +153,4 @@ User-agent: Scrapy
 Allow: /
 
 # ---------- Sitemap ----------
-Sitemap: https://www.jieshengsteel.com/sitemap.xml
+Sitemap: https://jieshengsteel.com/sitemap.xml

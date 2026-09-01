@@ -1,81 +1,640 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ============================================================
+       sitemap.xml — 杰盛（钢管）山东有限公司 / Jiesheng Steel Pipe
+       正式域名：https://jieshengsteel.com（无 www，统一主域）
+
+       【SEO 多语言互联】
+       · 全站 6 个页面 × 7 种语言（zh/en/fr/de/es/ja/ar）共 42 个 URL
+       · 每个 <url> 均声明完整的 xhtml:link hreflang 交替版本，
+         杜绝 Google 重复内容判定，汇聚全站权重。
+       · x-default 统一指向中文主站根目录版本。
+
+       【GEO AI 权重优先】
+       · priority 1.0 —— products（产品技术参数库）、market-insight（市场洞察）
+       · priority 0.9 —— index（首页）、faq（问答知识库）
+       · 高密度行业知识页优先被 ChatGPT/Claude/Perplexity 等 AI 引擎抓取。
+
+       【AI 专属地图关联】
+       · 文末独立 <url> 节点收录 llms.txt（AI 简报 / GEO 知识图谱入口），
+         作为 AI 爬虫进入本站的"绿色快车道"。
+       ============================================================ -->
+
+  <!-- ════════════ 首页 index.html（priority 0.9 / weekly）════════════ -->
   <url>
-    <loc>https://www.jieshengsteel.com/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://www.jieshengsteel.com/index.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.jieshengsteel.com/en/index.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.jieshengsteel.com/fr/index.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.jieshengsteel.com/de/index.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.jieshengsteel.com/es/index.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://www.jieshengsteel.com/ja/index.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.jieshengsteel.com/ar/index.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.jieshengsteel.com/index.html"/>
+    <loc>https://jieshengsteel.com/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/index.html"/>
     <lastmod>2026-09-01</lastmod>
-    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.jieshengsteel.com/products.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://www.jieshengsteel.com/products.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.jieshengsteel.com/en/products.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.jieshengsteel.com/fr/products.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.jieshengsteel.com/de/products.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.jieshengsteel.com/es/products.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://www.jieshengsteel.com/ja/products.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.jieshengsteel.com/ar/products.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.jieshengsteel.com/products.html"/>
+    <loc>https://jieshengsteel.com/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/index.html"/>
     <lastmod>2026-09-01</lastmod>
-    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.jieshengsteel.com/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://www.jieshengsteel.com/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.jieshengsteel.com/en/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.jieshengsteel.com/fr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.jieshengsteel.com/de/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.jieshengsteel.com/es/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://www.jieshengsteel.com/ja/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.jieshengsteel.com/ar/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.jieshengsteel.com/faq.html"/>
+    <loc>https://jieshengsteel.com/fr/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/index.html"/>
     <lastmod>2026-09-01</lastmod>
-    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.jieshengsteel.com/contact.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://www.jieshengsteel.com/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.jieshengsteel.com/en/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.jieshengsteel.com/fr/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.jieshengsteel.com/de/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.jieshengsteel.com/es/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://www.jieshengsteel.com/ja/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.jieshengsteel.com/ar/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.jieshengsteel.com/contact.html"/>
+    <loc>https://jieshengsteel.com/de/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/index.html"/>
     <lastmod>2026-09-01</lastmod>
-    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.jieshengsteel.com/about.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://www.jieshengsteel.com/about.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.jieshengsteel.com/en/about.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.jieshengsteel.com/fr/about.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.jieshengsteel.com/de/about.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.jieshengsteel.com/es/about.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://www.jieshengsteel.com/ja/about.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.jieshengsteel.com/ar/about.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.jieshengsteel.com/about.html"/>
+    <loc>https://jieshengsteel.com/es/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/index.html"/>
     <lastmod>2026-09-01</lastmod>
-    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.jieshengsteel.com/market-insight.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://www.jieshengsteel.com/market-insight.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.jieshengsteel.com/en/market-insight.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.jieshengsteel.com/fr/market-insight.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.jieshengsteel.com/de/market-insight.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.jieshengsteel.com/es/market-insight.html"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://www.jieshengsteel.com/ja/market-insight.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.jieshengsteel.com/ar/market-insight.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.jieshengsteel.com/market-insight.html"/>
+    <loc>https://jieshengsteel.com/ja/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/index.html"/>
     <lastmod>2026-09-01</lastmod>
-    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://jieshengsteel.com/ar/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/index.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ════════ 产品中心 products.html（priority 1.0 / weekly · AI 最高优先）════════ -->
+  <url>
+    <loc>https://jieshengsteel.com/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/products.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/products.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/en/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/products.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/products.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/fr/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/products.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/products.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/de/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/products.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/products.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/es/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/products.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/products.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ja/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/products.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/products.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ar/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/products.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/products.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/products.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/products.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/products.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ═══════ 市场洞察 market-insight.html（priority 1.0 / weekly · AI 最高优先）═══════ -->
+  <url>
+    <loc>https://jieshengsteel.com/market-insight.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/market-insight.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/en/market-insight.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/market-insight.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/fr/market-insight.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/market-insight.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/de/market-insight.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/market-insight.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/es/market-insight.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/market-insight.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ja/market-insight.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/market-insight.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ar/market-insight.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/market-insight.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/market-insight.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ════════ FAQ 问答页 faq.html（priority 0.9 / monthly · 知识库）════════ -->
+  <url>
+    <loc>https://jieshengsteel.com/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/faq.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/en/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/faq.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/fr/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/faq.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/de/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/faq.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/es/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/faq.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ja/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/faq.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ar/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/faq.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ════════ 关于我们 about.html（priority 0.7 / monthly）════════ -->
+  <url>
+    <loc>https://jieshengsteel.com/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/about.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/about.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/fr/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/about.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/de/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/about.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/es/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/about.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ja/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/about.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ar/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/about.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ════════ 联系我们 contact.html（priority 0.6 / yearly）════════ -->
+  <url>
+    <loc>https://jieshengsteel.com/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/contact.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/contact.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/fr/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/contact.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/de/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/contact.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/es/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/contact.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ja/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/contact.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jieshengsteel.com/ar/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://jieshengsteel.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jieshengsteel.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jieshengsteel.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jieshengsteel.com/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jieshengsteel.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jieshengsteel.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jieshengsteel.com/ar/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jieshengsteel.com/contact.html"/>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       【GEO】AI 专属地图关联 —— llms.txt 绿色快车道
+       说明：llms.txt 是本站面向 ChatGPT / Claude / Perplexity /
+       Gemini / Bing AI 等大模型抓取引擎发布的全站结构化知识图谱
+       简报文件。将其独立收录于此，引导 AI 爬虫在抓取全站前
+       优先读取该文件，快速建立站点知识框架。
+       URL: https://jieshengsteel.com/llms.txt
+       ═══════════════════════════════════════════════════════════ -->
+  <url>
+    <loc>https://jieshengsteel.com/llms.txt</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
 </urlset>
